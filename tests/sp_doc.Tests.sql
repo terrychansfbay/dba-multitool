@@ -560,7 +560,7 @@ EXEC [dbo].[sp_doc] @SqlMajorVersion = @version;
 
 END;
 GO
-
+ 
 /************************************
 End sp_doc tests
 *************************************/
